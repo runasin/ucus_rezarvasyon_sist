@@ -1,0 +1,17 @@
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.exe
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.deps.json
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.runtimeconfig.json
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.dll
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\bin\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.pdb
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.Form1.resources
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.Properties.Resources.resources
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.csproj.GenerateResource.cache
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.AssemblyInfoInputs.cache
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.AssemblyInfo.cs
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.dll
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\refint\Ucus_Rezarvasyon_Sistemi.dll
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.pdb
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\Ucus_Rezarvasyon_Sistemi.genruntimeconfig.cache
+C:\Users\nacik\OneDrive\Masaüstü\Ucus_Rezarvasyon_Sistemi\Ucus_Rezarvasyon_Sistemi\obj\Debug\net8.0-windows\ref\Ucus_Rezarvasyon_Sistemi.dll
